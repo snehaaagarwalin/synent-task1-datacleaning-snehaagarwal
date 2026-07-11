@@ -1,5 +1,4 @@
-# Task 1 - Data Cleaning & Preprocessing
-**Internship:** Synent Technologies – Data Science Internship  
+# Data Cleaning & Preprocessing
 **Dataset:** Titanic Dataset  
 **Tools:** Python, Pandas, Numpy, Seaborn, Matplotlib  
 
